@@ -11,4 +11,5 @@
 * [Kakenya Ntaiya: A girl who demanded school](https://www.ted.com/talks/kakenya_ntaiya_a_girl_who_demanded_school)
 * [Jedidah Isler: The untapped genius that could change science for the better]
 (https://www.ted.com/talks/jedidah_isler_the_untapped_genius_that_could_change_science_for_the_better)
-
+* [Susan Colantuono: The career advice you probably didn’t get](https://www.ted.com/talks/susan_colantuono_the_career_advice_you_probably_didn_t_get)
+* [Sakena Yacoobi: How I stopped the Taliban from shutting down my school](https://www.ted.com/talks/sakena_yacoobi_how_i_stopped_the_taliban_from_shutting_down_my_school#t-5765)
