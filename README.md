@@ -1,5 +1,5 @@
 # Lean_In
-A collection of material from the book Lean In by Sheryl Sandberg, and also from the rest of the web.
+A collection of material from the book [Lean In by Sheryl Sandberg](http://leanin.org/book/), and also from the rest of the web.
 
 > "I have written this book to encourage women to dream big, forge a path through the obstacles, and
 achieve their full potential. I am hoping that each woman will set her own goals and reach for them
