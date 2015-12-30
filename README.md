@@ -8,4 +8,8 @@ the home, also with gusto. As we start using the talents of the entire populatio
 more productive, our homes will be happier, and the children growing up in those homes will no
 longer be held back by narrow stereotypes. " -Sheryl Sandberg
 
+## Folders
+- LN- Lean In by Sheryl Sandberg
+- BTC- Being The Change by Leesa Hubbard
+
 
