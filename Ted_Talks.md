@@ -15,7 +15,13 @@
 * [Sakena Yacoobi: How I stopped the Taliban from shutting down my school](https://www.ted.com/talks/sakena_yacoobi_how_i_stopped_the_taliban_from_shutting_down_my_school#t-5765)
 * [Leymah Gbowee: Unlock The Intelligence Passion Greatness Of Girls]
 (http://www.ted.com/talks/leymah_gbowee_unlock_the_intelligence_passion_greatness_of_girls)
-* [Zainab Salbi](http://www.ted.com/talks/zainab_salbi)
+* [Zainab Salbi: Women, wartime and the dream of peace](http://www.ted.com/talks/zainab_salbi)
 * [Ziauddin Yousafzai: My daughter, Malala](http://www.ted.com/talks/ziauddin_yousafzai_my_daughter_malala)
 * [Shabana Basij-Rasikh:Dare to educate Afghan girls]
 (http://www.ted.com/talks/shabana_basij_rasikh_dare_to_educate_afghan_girls) 
+* [Linda Liukas: A delightful way to teach kids about computers ] (http://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)
+* [Chimamanda Ngozi Adichie: The danger of a single story] (http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)
+* [Larry Smith: Why you will fail to have a great career] (https://www.ted.com/talks/larry_smith_why_you_will_fail_to_have_a_great_career?language=en)
+* [Judson Brewer: A simple way to break a bad habit](https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit)
+* [Kelly McGonigal: How to make stress your friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
+* [Pico Iyer: The art of stillness](https://www.ted.com/talks/pico_iyer_the_art_of_stillness)
