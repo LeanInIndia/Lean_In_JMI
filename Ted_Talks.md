@@ -25,3 +25,4 @@
 * [Judson Brewer: A simple way to break a bad habit](https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit)
 * [Kelly McGonigal: How to make stress your friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
 * [Pico Iyer: The art of stillness](https://www.ted.com/talks/pico_iyer_the_art_of_stillness)
+* [Isabel Allende: How to live passionately—no matter your age](http://www.ted.com/talks/isabelle_allende_how_to_live_passionately_no_matter_your_age)
