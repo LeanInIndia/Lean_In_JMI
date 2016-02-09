@@ -26,3 +26,4 @@
 * [Kelly McGonigal: How to make stress your friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
 * [Pico Iyer: The art of stillness](https://www.ted.com/talks/pico_iyer_the_art_of_stillness)
 * [Isabel Allende: How to live passionately—no matter your age](http://www.ted.com/talks/isabelle_allende_how_to_live_passionately_no_matter_your_age)
+* [Tania Katan: It Was Never a Dress: The Power of a Poetic Leap of Faith!](http://tedxtalks.ted.com/video/It-Was-Never-a-Dress-The-Power)
