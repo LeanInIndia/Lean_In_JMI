@@ -38,3 +38,7 @@
 * [Tom Wujec: Got a wicked problem? First, tell me how you make toast](http://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast)
 * [Dan Pink: The puzzle of motivation](http://www.ted.com/talks/dan_pink_on_motivation)
 * [Simon Sinek:How great leaders inspire action](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+* [Reshma Saujani: Teach girls bravery, not perfection](http://www.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection#t-751373)
+* [Mitch Resnick: Let's teach kids to code](http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code)
+* [Fields Wicker-Miurin:Learning from leadership's missing manual](http://www.ted.com/talks/fields_wicker_miurin_learning_from_leadership_s_missing_manual)
+* [Roselinde Torres: What it takes to be a great leader](https://www.ted.com/talks/roselinde_torres_what_it_takes_to_be_a_great_leader?language=en)
