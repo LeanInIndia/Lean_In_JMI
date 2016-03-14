@@ -1,10 +1,8 @@
 ## A curated TED list on issues related to Leaning in.
 (In no specific order)
 
-* [Dame Stephanie Shirley: Why do ambitious women have flat heads?]
-(https://www.ted.com/talks/dame_stephanie_shirley_why_do_ambitious_women_have_flat_heads)
-* [Jessica Shortall: The US needs paid family leave — for the sake of its future] 
-(https://www.ted.com/talks/jessica_shortall_how_america_fails_new_parents_and_their_babies)
+* [Dame Stephanie Shirley: Why do ambitious women have flat heads?](https://www.ted.com/talks/dame_stephanie_shirley_why_do_ambitious_women_have_flat_heads)
+* [Jessica Shortall: The US needs paid family leave — for the sake of its future](https://www.ted.com/talks/jessica_shortall_how_america_fails_new_parents_and_their_babies)
 * [Sheryl Sandberg: Why we have too few women leaders](https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders)
 * [Hanna Rosin: New data on the rise of women](https://www.ted.com/talks/hanna_rosin_new_data_on_the_rise_of_women)
 * [Sheryl Sandberg: So we leaned in now what...](https://www.ted.com/talks/sheryl_sandberg_so_we_leaned_in_now_what)
@@ -19,7 +17,6 @@
 * [Ziauddin Yousafzai: My daughter, Malala](http://www.ted.com/talks/ziauddin_yousafzai_my_daughter_malala)
 * [Shabana Basij-Rasikh:Dare to educate Afghan girls]
 (http://www.ted.com/talks/shabana_basij_rasikh_dare_to_educate_afghan_girls) 
-* [Linda Liukas: A delightful way to teach kids about computers ](http://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)
 * [Chimamanda Ngozi Adichie: The danger of a single story](http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)
 * [Larry Smith: Why you will fail to have a great career](https://www.ted.com/talks/larry_smith_why_you_will_fail_to_have_a_great_career?language=en)
 * [Judson Brewer: A simple way to break a bad habit](https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit)
@@ -42,3 +39,4 @@
 * [Mitch Resnick: Let's teach kids to code](http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code)
 * [Fields Wicker-Miurin:Learning from leadership's missing manual](http://www.ted.com/talks/fields_wicker_miurin_learning_from_leadership_s_missing_manual)
 * [Roselinde Torres: What it takes to be a great leader](https://www.ted.com/talks/roselinde_torres_what_it_takes_to_be_a_great_leader?language=en)
+*[Linda Cliatt-Wayman: How to fix a broken school? Lead fearlessly, love hard](http://www.ted.com/talks/linda_cliatt_wayman_how_to_fix_a_broken_school_lead_fearlessly_love_hard)
