@@ -40,3 +40,7 @@
 * [Fields Wicker-Miurin:Learning from leadership's missing manual](http://www.ted.com/talks/fields_wicker_miurin_learning_from_leadership_s_missing_manual)
 * [Roselinde Torres: What it takes to be a great leader](https://www.ted.com/talks/roselinde_torres_what_it_takes_to_be_a_great_leader?language=en)
 *[Linda Cliatt-Wayman: How to fix a broken school? Lead fearlessly, love hard](http://www.ted.com/talks/linda_cliatt_wayman_how_to_fix_a_broken_school_lead_fearlessly_love_hard)
+*[Playlist (8 talks)-How we make choices](https://www.ted.com/playlists/164/how_we_make_choices?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=playlist&utm_term=social-science)
+*[Angela Lee Duckworth: The key to success? Grit ](http://www.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=talk&utm_term=business#t-59251)
+*[Alain de Botton:A kinder, gentler philosophy of success](http://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
+*[Elizabeth Gilbert:Your elusive creative genius](http://www.ted.com/talks/elizabeth_gilbert_on_genius)
