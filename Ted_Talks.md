@@ -48,4 +48,4 @@
 * [Astro Teller:The unexpected benefit of celebrating failure](http://www.ted.com/talks/astro_teller_the_unexpected_benefit_of_celebrating_failure)
 * [Melissa Marshall:Talk Nerdy To Me](http://www.ted.com/talks/melissa_marshall_talk_nerdy_to_me)
 * [Amy Cuddy: Your Body Language Shapes Who You Are](http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)
-* [Adam Grant](http://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)
+* [Adam Grant: The surprising habits of Original Thinkers](http://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)
