@@ -49,3 +49,8 @@
 * [Melissa Marshall:Talk Nerdy To Me](http://www.ted.com/talks/melissa_marshall_talk_nerdy_to_me)
 * [Amy Cuddy: Your Body Language Shapes Who You Are](http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)
 * [Adam Grant: The surprising habits of Original Thinkers](http://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)
+* [Ken Robinson: Do schools kill creativity?](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+* [Dan Pallotta:The dream we haven't dared to dream](http://www.ted.com/talks/dan_pallotta_the_dream_we_haven_t_dared_to_dream)
+* [Ken Robinson:Bring on the learning revolution!](http://www.ted.com/talks/sir_ken_robinson_bring_on_the_revolution)
+* [Ken Robinson:How to escape education's death valley](http://www.ted.com/talks/ken_robinson_how_to_escape_education_s_death_valley)
+* [Robert Waldinger:What makes a good life? Lessons from the longest study on happiness](http://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness)
