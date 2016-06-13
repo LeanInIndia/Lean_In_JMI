@@ -12,6 +12,7 @@
 * [Astro Teller:The unexpected benefit of celebrating failure](http://www.ted.com/talks/astro_teller_the_unexpected_benefit_of_celebrating_failure)
 * [Bel Pesce: 5 ways to kill your dreams](http://www.ted.com/talks/bel_pesce_5_ways_to_kill_your_dreams?language=en)
 * [Chimamanda Ngozi Adichie: The danger of a single story](http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)
+* [Dalia Mogahed: What Do You Think When You Look At Me](https://www.ted.com/talks/dalia_mogahed_what_do_you_think_when_you_look_at_me)
 * [Dame Stephanie Shirley: Why do ambitious women have flat heads?](https://www.ted.com/talks/dame_stephanie_shirley_why_do_ambitious_women_have_flat_heads)
 * [Dan Pallotta:The dream we haven't dared to dream](http://www.ted.com/talks/dan_pallotta_the_dream_we_haven_t_dared_to_dream)
 * [Dan Pink: The puzzle of motivation](http://www.ted.com/talks/dan_pink_on_motivation)
