@@ -6,3 +6,5 @@
 
 ## Top Lessions from the book
  [Top Lessions](http://character-education.info/Money/books/Jack_Welch_Winning.htm)
+
+##The pdf of the book has been shared in the folder.
