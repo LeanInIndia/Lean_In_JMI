@@ -8,7 +8,7 @@ the home, also with gusto. As we start using the talents of the entire populatio
 more productive, our homes will be happier, and the children growing up in those homes will no
 longer be held back by narrow stereotypes. " -Sheryl Sandberg
 
-### Folders (the list show grow as I read more ;) )
+### Folders (the list should grow as I read more ;) )
 - LN- Lean In by Sheryl Sandberg
 - BTC- Being The Change by Leesa Hubbard
 - FBR- First, Break All The Rules by Marcus Buckingham and Curt Coffman
