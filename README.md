@@ -16,3 +16,5 @@ longer be held back by narrow stereotypes. " -Sheryl Sandberg
 - WIN- Winning, by Jack Welch
 - RY- Reinventing Yourself by Steve Chandler
 - BAB- How to Build a Business Warren Buffett Would Buy: The R.C. Willey Story by Jeff Benedict
+- OPEN- The Open Organization, Igniting Passion and Performance:
+by Jim Whitehurst
