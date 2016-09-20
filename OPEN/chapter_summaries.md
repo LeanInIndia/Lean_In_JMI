@@ -1,7 +1,8 @@
 ## Chapter 1:
 * Title: Why Opening Up Your Organization Matters
 * Video: [Book-Summary](https://youtu.be/WBavpeSScxU)
-* 
+
+
 ## Chapter 2:
 * Title: Igniting Passion
 * Video:[Chp-2](https://youtu.be/Op_RcGhzvcM)
@@ -28,6 +29,8 @@
     **FOR INDIVIDUAL CONTRIBUTORS**
         - **Don't wait for your manager to provode context.** Be proactive. Understand your company's strategy, and do what you can do to make it successful.
         - **Engage with your peers.** Learn from them and let them learn from you.    
+
+
 ## Chapter 4:
 * Title: Choosing Meritocracy, Not Democracy
 * Video: [Chp-4](https://youtu.be/L15D2WEmsAo)
@@ -49,6 +52,7 @@
     - **Recognize the myraid barriers to frank dialogue.** For example, never start a contentious conversation on opposite sides of desk, and recognize that offices are home turf. Pick neutral places.
     - **Does your organization avoid the "elephant in the room" conversations?** If so, think about what role you can play to initiate those discussions.
 
+
 ## Chapter 6:
 * Title: Making Inclusive Decisions
 * Video: [Chp-6](https://youtu.be/khb2olG4Ppc)
@@ -58,6 +62,7 @@
     - **Before making your next decision, ask yourself whether others will be suprised.** If so, think about including them before finalizing it.
     - **Pick an issue and try openly discussing it with a broader group, whether in a staff meeting or an informal gathering.** After a while, it will become natural.
     - **Try to observe the difference in execution of decisions that were made openly, with input, versus those that truly came from the top down.**
+
 
 ## Chapter 7:
 * Title: Catalyzing Direction
