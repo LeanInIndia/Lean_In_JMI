@@ -9,7 +9,7 @@
 
 - “She is very ambitious” is not a compliment in our culture. Aggressive and hard-charging women violate unwritten rules about acceptable social conduct.
 
-- Leadership roles are not the only way to have profound impact.
+- Leadership roles are not the only way to have the profound impact.
 
 - Fear is at the root of so many of the barriers that women face. Fear of not being liked. Fear of making the wrong choice. Fear of drawing negative attention. Fear of overreaching. Fear of being judged. Fear of failure. 
 And the holy trinity of fear: the fear of being a bad mother/wife/daughter.
@@ -24,11 +24,11 @@ And the holy trinity of fear: the fear of being a bad mother/wife/daughter.
 
 - The ability to learn is the most important quality a leader can have.
 
-- We are so rarely brave enough to tell the truth.
+- We are so rarely brave enough, to tell the truth.
 
 - And believe me, the truth hurts. But the upside of painful knowledge is so much greater than the downside of blissful ignorance.
 
-- Sharing emotions builds deeper relationships. 
+- Sharing emotions build deeper relationships. 
 
 - Motivation comes from working on things we care about. It also comes from working with people we care about. 
 
@@ -59,7 +59,7 @@ The image of a happy couple still includes a husband who is more professionally 
 - As Sharon Poczter, professor of economics at Cornell, explains, “The antiquated rhetoric of ‘having it all’ disregards the basis of every economic relationship: the idea of trade-offs. All of us are dealing with the constrained optimization that is life, attempting to maximize our utility based on parameters like career, kids, relationships, etc., doing our best to allocate the resource of time. Due to the scarcity of this resource, therefore, none of us can ‘have it all,’ and those who claim
 to are most likely lying.”
 
-- Pursuing both a professional and personal life is a noble and attainable goal, up to a point. Women should learn from Icarus to aim for the sky, but keep in mind that we all have real limits.
+- Pursuing both a professional and personal life is a noble and attainable goal, up to a point. Women should learn from Icarus to aim for the sky but keep in mind that we all have real limits.
 
 - The worst question is ‘How do you juggle it all?’ ... People constantly ask me, with an accusatory look in their eyes. ‘You’re fucking it all up, aren’t you?’ their eyes say.”
 
@@ -67,11 +67,11 @@ to are most likely lying.”
 
 - Aiming for perfection causes frustration at best and paralysis at worst. 
 
-- Ephron insisted, “It will be a little messy, but embrace the mess. It will be complicated, but rejoice in the complications. It will not be anything like what you think it will be like, but surprises are good for you. And don’t be frightened: you can always change your mind. I know: I’ve had four careers and three husbands.”
+- Ephron insisted, “It will be a little messy, but embrace the mess. It will be complicated but rejoice in the complications. It will not be anything like what you think it will be like, but surprises are good for you. And don’t be frightened: you can always change your mind. I know: I’ve had four careers and three husbands.”
 
 - It is difficult to distinguish between the aspects of a job that are truly necessary and those that are not. Sometimes the situation is hard to read and the lines are hard to draw.
 
-- Sleeping four or five hours a night induces mental impairment equivalent to a blood alcohol level above the legal driving limit. Sleep deprivation makes people anxious, irritable, and confused. If I could go back and change one thing about how I lived in those early years, I would force myself to get more sleep.
+- Sleeping four or five hours a night induces mental impairment equivalent to a blood-alcohol level above the legal driving limit. Sleep deprivation makes people anxious, irritable, and confused. If I could go back and change one thing about how I lived in those early years, I would force myself to get more sleep.
 
 - Guilt management can be just as important as time management for mothers. We overwork to overcompensate.
 
@@ -79,9 +79,9 @@ to are most likely lying.”
 
 - The secret is there is no secret—just doing the best you can with what you’ve got.
 
-- I said out loud that there are differences between men and women both in their behavior and in the way their behavior is perceived by others.
+- I said out loud that there are differences between men and women both in their behaviour and in the way their behaviour is perceived by others.
 
-- The simple act of talking openly about behavioral patterns makes the subconscious conscious. Talking can transform minds, which can transform behaviors, which can transform institutions. Shutting down discussion is self-defeating and impedes progress. We need to talk and listen and debate and refute and instruct and learn and evolve.
+- The simple act of talking openly about behavioural patterns makes the subconscious conscious. Talking can transform minds, which can transform behaviours, which can transform institutions. Shutting down discussion is self-defeating and impedes progress. We need to talk and listen and debate and refute and instruct and learn and evolve.
 
 - Every job will demand some sacrifice. 
 
@@ -89,16 +89,16 @@ to are most likely lying.”
 
 - Leadership is about making others better as a result of your presence and making sure that impact lasts in your absence.
 
-- It is time to cheer on girls and women who want to sit at the table, seek challenges, and lean in to their careers.
+- It is time to cheer on girls and women who want to sit at the table, seek challenges, and lean into their careers.
 
 - Equal opportunity is not equal unless everyone receives the encouragement that makes seizing those opportunities possible. Only then can both men and women achieve their full potential.
 
-- As former secretary of state Madeleine Albright once said, “There’s a special place in hell for women who don’t help other
+- As former secretary of state, Madeleine Albright once said, “There’s a special place in hell for women who don’t help other
 women.”
 
 - Women are not just victims of sexism, they can also be perpetrators.
 
-- Gender should neither magnify nor excuse rude and dismissive treatment. We should expect professional behavior, and even kindness, from everyone.
+- Gender should neither magnify nor excuse rude and dismissive treatment. We should expect professional behaviour, and even kindness, from everyone.
 
 - True equality will be achieved only when we all fight the stereotypes that hold us back. 
 
